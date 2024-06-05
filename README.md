@@ -53,4 +53,3 @@ To train the classifier and make predictions, run the following command:
 python main.py
 ```
 
-Feel free to customize this README further or add any additional information you think is necessary!
